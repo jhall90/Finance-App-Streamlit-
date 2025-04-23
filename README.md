@@ -39,4 +39,4 @@ This is a lightweight, interactive finance app built with Python and Streamlit t
    git clone https://github.com/yourusername/simple-finance-app.git
    cd simple-finance-app
 2. Create a virtual enviornment and install the requirements.txt
-3. For Streamlit ues the following in your terminal:  Streamlit run main.py
+3. For Streamlit use the following in your terminal:  Streamlit run main.py
