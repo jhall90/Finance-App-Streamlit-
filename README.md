@@ -70,7 +70,7 @@ This is a lightweight, interactive finance app built with Python and Streamlit t
     pip install -r requirements.txt
     ```
 
-4. **Run Streamlit **
+4. **Run Streamlit**
 
     - Opens a port in your browser for you
     - after saving you just click reload
