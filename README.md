@@ -35,6 +35,9 @@ This is a lightweight, interactive finance app built with Python and Streamlit t
 
 ## 📦 How to Run It
 
+**DEMO**
+[![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-orange)](https://josh-hall-finance-app-demo.streamlit.app/)
+
 1. **Clone the repo**
 
     ```bash
@@ -78,3 +81,5 @@ This is a lightweight, interactive finance app built with Python and Streamlit t
     ```bash
     streamlit run main.py
     ```
+
+[![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-orange)](https://josh-hall-finance-app-demo.streamlit.app/)
