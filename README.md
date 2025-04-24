@@ -14,9 +14,7 @@ This is a lightweight, interactive finance app built with Python and Streamlit t
 
 2. **Try it for yourself!**
 
- <a href="https://josh-hall-finance-app-demo.streamlit.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Live%20Demo-Streamlit-orange" alt="Streamlit App">
- </a>
+    [![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-orange)](https://josh-hall-finance-app-demo.streamlit.app/) (Right click and open in a new tab)
 
 ---
 
