@@ -4,6 +4,20 @@ This is a lightweight, interactive finance app built with Python and Streamlit t
 
 ---
 
+## ▶️ Try the Demo
+
+1. **Download the sample csv**
+
+    - Click on the sample_bank_statement.csv above the readme
+    - On the right hand side there is a download raw file button
+    - You will need the sample data and the csv to be the correct format before running the demo
+
+2. **Try it for yourself!**
+
+    [![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-orange)](https://josh-hall-finance-app-demo.streamlit.app/)
+
+---
+
 ## 🚀 Features
 
 -   📁 **Upload Your Bank Statement (CSV)**  
@@ -33,10 +47,7 @@ This is a lightweight, interactive finance app built with Python and Streamlit t
 
 ---
 
-## 📦 How to Run It
-
-**DEMO**
-[![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-orange)](https://josh-hall-finance-app-demo.streamlit.app/)
+## 📦 How to Grab the code yourself!
 
 1. **Clone the repo**
 
@@ -81,5 +92,3 @@ This is a lightweight, interactive finance app built with Python and Streamlit t
     ```bash
     streamlit run main.py
     ```
-
-[![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-orange)](https://josh-hall-finance-app-demo.streamlit.app/)
